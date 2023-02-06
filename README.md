@@ -6,3 +6,4 @@
 Τα μαθηματικά που χρησιμοποιούνται είναι επιπέδου γυμνασίου (νόμος ημιτόνων).
 
 [Σχέδιο μαθήματος στην εκπαιδευτική πλατφόρμα Open Discovery Space.](http://inspiringscience.rdea.gr/delivery/view/index.html?id=61617ae340ec4fbc99bc38734e2300f1&t=p)
+![cc](https://user-images.githubusercontent.com/52317119/217079633-dcccaa09-90e8-437b-a382-afd7d8356a54.png)
